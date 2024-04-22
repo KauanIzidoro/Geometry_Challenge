@@ -40,6 +40,24 @@
 <p>With the radius values of each circumference, we can calculate the desired area as follows:</p>
 <p>Total area - Sum of the undesired areas.</p>
 <br>
+<h2>
+    Calculating the area of circles:
+</h2>
+<br>
+<p>S<sub>m</sub> = <span style="display: inline-block; border-bottom: 1px solid black;">R<sub>m</sub><sup>2</sup> &times; &pi;</span>, therefore S<sub>m</sub> = <sup>25&pi;</sup>&frasl;<sub>2</sub> cm<sup>2</sup></p>
+<p>S<sub>a</sub> = <sup>R<sub>a</sub><sup>2</sup>&pi;</sup>&frasl;<sub>4</sub>, therefore S<sub>a</sub> = <sup>150&pi; + 50&radic;5&pi;</sup>&frasl;<sub>4</sub> cm<sup>2</sup></p>
+<p>S<sub>b</sub> = <span style="display: inline-block; border-bottom: 1px solid black;">R<sub>b</sub><sup>2</sup> &times; &pi;</span>&frasl;<sub>4</sub>, therefore S<sub>b</sub> = <sup>350&pi; + 150&radic;5&pi;</sup>&frasl;<sub>4</sub> cm<sup>2</sup></p>
+<p>
+ <h3>
+  Finally:
+ </h3>
+   S<sub>m</sub> + S<sub>a</sub> + S<sub>b</sub> = <sup>550&pi; - 200&radic;5&pi;</sup>&frasl;<sub>4</sub> cm<sup>2</sup><br>
+   <p>
+    100 - <sup>(550&pi; - 200&radic;5&pi;</sup>&frasl;<sub>4)</sup> &asymp; 19.27175 cm²
+   </p>
+
+
+
 
 
 
